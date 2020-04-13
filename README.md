@@ -1,3 +1,3 @@
 关于开发环境的描述
 # vim
-~/.vimrc 是vim的配置文件
+.vimrc 是 vim 的配置文件

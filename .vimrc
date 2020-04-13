@@ -49,3 +49,6 @@ set autoread
 
 " 不保存备份文件
 set nobackup
+
+" 语法高亮
+syntax on
